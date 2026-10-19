@@ -1,0 +1,13 @@
+.DS_Store
+.cursor/
+.vs/
+out/
+artifacts/
+*.user
+
+# 内部計画: docs/ は追跡する。それ以外はローカル専用
+internal/*
+!internal/docs/
+
+# ローカル作業用キャッシュ
+.tmp-gh-cache/
