@@ -4,8 +4,14 @@
 
 | 用語 | 定義 | 正本 |
 |------|------|------|
-| Observatory OS | 現実を正直に捉え記録する側の顔（S2 / S3 / S4 / S7） | [VISION](VISION.md) |
-| Reality Traceability System | 記録から主張を導き、証明し、発見につなぐ側の顔（S4 / S5 / S6 / S8） | [VISION](VISION.md) |
+| 5 本柱 | 開放する成果物の束。Observatory Hardware / Observatory OS / Observatory Network / Science Data Platform / Research Community | [VISION](VISION.md) |
+| Observatory OS | 5 本柱の一つ。観測拠点で動くソフトウェア（S3。S2 の抽象と S4 の拠点内記録を含む） | [VISION](VISION.md) |
+| Reality Traceability（背骨） | 柱ではなく、全柱を貫いて検証可能にする証明の連鎖 | [VISION](VISION.md) |
+| 最初の題材 | 天文学。基盤の本質は分野に依存しない観測基盤であり、天文学はその試金石 | [VISION](VISION.md) |
+| モジュール契約 | 制御経路・データ経路・信頼の根拠の宣言・設計の版への参照からなる、全モジュール共通の接続規則 | [HARDWARE](HARDWARE.md) |
+| 時刻モジュール | 全機材に共通の信頼の起点となるモジュール。拠点内で共有できる | [HARDWARE](HARDWARE.md) |
+| 機材ファミリー | 時刻基準・測定カメラ・全天観測・電波観測・気象観測・移動観測キット | [HARDWARE](HARDWARE.md) |
+| 再現可能性の四つ組 | 同じ設計・同じ条件・同じソフト・同じ解析手順。すべて系譜グラフから辿れる | [DECISIONS](DECISIONS.md) |
 | 事象（Event） | 時空間の特定座標において発生・変動した物理現象（信号）。対象物ごとの分類の代わりに使う唯一の単位 | [S1](scopes/S1-ontology.md) |
 | 観測者／ノード（Node） | 位置・速度・姿勢が時間とともに変化し、それぞれに不確かさを伴う運動体として表した観測拠点 | [S1](scopes/S1-ontology.md) |
 | 6DoF | 位置（3 次元）・姿勢（3 次元回転）の 6 自由度。本設計では速度と各不確かさを伴って観測者を表す | [S1](scopes/S1-ontology.md) |
