@@ -5,7 +5,8 @@
 
 | 文書 | 内容 |
 |------|------|
-| [VISION](VISION.md) | 最上位目標・本質・5 本柱・設計思想・課題・パラダイム・スコープ構造・4 層対応・責務境界 |
+| [VISION](VISION.md) | 核・応用・題材、5 本柱、設計思想、課題、パラダイム、スコープ構造、4 層対応、責務境界 |
+| [ONTOLOGY](ONTOLOGY.md) | 存在論の階層 Level 0〜8（設計を下から積む正本） |
 | [HARDWARE](HARDWARE.md) | Observatory Hardware: モジュール契約・機材ファミリー |
 | [DECISIONS](DECISIONS.md) | 設計判断の記録（構想まとめの統合時の判断を含む） |
 | [scopes/S1](scopes/S1-ontology.md) | 統合理念・存在論（オントロジー） |
