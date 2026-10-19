@@ -8,6 +8,9 @@
 | [VISION](VISION.md) | 核・応用・題材、5 本柱、設計思想、課題、パラダイム、スコープ構造、4 層対応、責務境界 |
 | [ONTOLOGY](ONTOLOGY.md) | 存在論の階層 Level 0〜8（設計を下から積む正本） |
 | [HARDWARE](HARDWARE.md) | Observatory Hardware: モジュール契約・機材ファミリー |
+| [hardware/BUILD-PLAN](hardware/BUILD-PLAN.md) | 観測機材の自作計画（基準機と置き換え） |
+| [hardware/TIMING-MODULE](hardware/TIMING-MODULE.md) | 時刻モジュールの要求と段階 |
+| [tech/](tech/INDEX.md) | 技術選定記録（TS-xxxx） |
 | [DECISIONS](DECISIONS.md) | 設計判断の記録（構想まとめの統合時の判断を含む） |
 | [scopes/S1](scopes/S1-ontology.md) | 統合理念・存在論（オントロジー） |
 | [scopes/S2](scopes/S2-measurement-root-of-trust.md) | 物理計測・信頼起点 |

@@ -3,6 +3,12 @@
 5 本柱の一つ **Observatory Hardware** の正本。責務の上では主に [S2](scopes/S2-measurement-root-of-trust.md) にあたる。  
 ここでは役割・観測対象・要求水準だけを定め、部品や方式は定めない（技術中立）。
 
+| 文書 | 内容 |
+|------|------|
+| [hardware/BUILD-PLAN](hardware/BUILD-PLAN.md) | 自作の進め方（基準機と置き換え）・範囲・順番・予算の目安 |
+| [hardware/TIMING-MODULE](hardware/TIMING-MODULE.md) | 時刻モジュールの要求と段階（T0〜T3） |
+| [tech/](tech/INDEX.md) | 部品・方式の技術選定記録 |
+
 ---
 
 ## 1. 目標
