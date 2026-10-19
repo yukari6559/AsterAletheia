@@ -21,5 +21,6 @@
 | [scopes/S7](scopes/S7-distributed-network.md) | 分散協調・立体観測ネットワーク |
 | [scopes/S8](scopes/S8-human-discovery.md) | 人間中心の発見・知識探求 |
 | [GLOSSARY](GLOSSARY.md) | 用語 |
+| [repo-layout](repo-layout.md) | リポジトリ構成（実装の置き場・版・分割の条件） |
 | [ROADMAP](ROADMAP.md) | マイルストーン |
 | [dev-workflow](dev-workflow.md) | GitHub 運用正本 |
